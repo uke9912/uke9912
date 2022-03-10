@@ -1,2 +1,2 @@
-Hey there! I'm Yusuke Nakagawa, a student at Kyushu University.
+I'm Yusuke Nakagawa, a student at Kyushu University.
 
