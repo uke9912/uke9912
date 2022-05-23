@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuke Nakagawa</h1>
 <h3 align="center">A student at Kyushu University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuke9912" alt="yusuke9912" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/uke_9912" target="blank"><img src="https://img.shields.io/twitter/follow/uke_9912?logo=twitter&style=for-the-badge" alt="uke_9912" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://yusukesportfolio.web.app/](https://yusukesportfolio.web.app/)
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuke9912&show_icons=true&locale=en&layout=compact" alt="yusuke9912" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuke9912&show_icons=true&locale=en" alt="yusuke9912" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuke9912&" alt="yusuke9912" /></p>
