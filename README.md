@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/uke_9912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uke_9912" height="30" width="40" /></a>
-<a href="https://fb.com/中川雄介" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="中川雄介" height="30" width="40" /></a>
+<a href="https://ja-jp.facebook.com/people/%E4%B8%AD%E5%B7%9D%E9%9B%84%E4%BB%8B/100051735133781/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="中川雄介" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
