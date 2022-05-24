@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuke Nakagawa</h1>
+<h1 align="center">Hi 👋, I'm Yusuke Nakagawa.</h1>
 <h3 align="center">A student at Kyushu University.</h3>
 
 - 👨‍💻 All of my projects are available at [https://yusukesportfolio.web.app/](https://yusukesportfolio.web.app/)
